@@ -4,7 +4,7 @@
   "description": "",
   "main": "server.js",
   "type": "module",
-  "enigine": {
+  "enigines": {
     "node": "14.x"
   },
   "scripts": {
